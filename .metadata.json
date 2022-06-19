@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sctransform",
+    "oncran": true
+  },
+  {
+    "package": "Seurat",
+    "oncran": true
+  }
+]
