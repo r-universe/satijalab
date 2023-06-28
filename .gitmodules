@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sctransform"]
 	path = sctransform
 	url = https://github.com/satijalab/sctransform
-	shallow = true
-	registered = true
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
-	shallow = true
-	registered = true
