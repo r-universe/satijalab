@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "sctransform"]
-	path = sctransform
-	url = https://github.com/satijalab/sctransform
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
+[submodule "sctransform"]
+	path = sctransform
+	url = https://github.com/satijalab/sctransform
