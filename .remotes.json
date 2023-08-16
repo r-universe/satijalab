@@ -1,0 +1,15 @@
+[
+  {
+    "package": "BPCells",
+    "url": "https://github.com/bnprks/BPCells",
+    "via": ["Seurat"],
+    "from": "Seurat"
+  },
+  {
+    "package": "SeuratObject",
+    "url": "https://github.com/mojaveazure/seurat-object",
+    "via": ["Seurat"],
+    "branch": "seurat5",
+    "from": "Seurat"
+  }
+]

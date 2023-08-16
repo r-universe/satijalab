@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/satijalab/universe
 	branch = HEAD
+[submodule "BPCells"]
+	path = BPCells
+	url = https://github.com/bnprks/BPCells
+	registered = false
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
