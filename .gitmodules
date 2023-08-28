@@ -1,10 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/satijalab/universe
 	branch = HEAD
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
-[submodule "sctransform"]
-	path = sctransform
-	url = https://github.com/satijalab/sctransform
+	branch = seurat5
+[submodule "SeuratObject"]
+	path = SeuratObject
+	url = https://github.com/mojaveazure/seurat-object
+	branch = seurat5
