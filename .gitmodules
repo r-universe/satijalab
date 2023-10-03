@@ -2,19 +2,10 @@
 	path = .registry
 	url = https://github.com/satijalab/universe
 	branch = HEAD
-[submodule "BPCells"]
-	path = BPCells
-	url = https://github.com/bnprks/BPCells
-	registered = false
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
 	branch = seurat4
-[submodule "SeuratObject"]
-	path = SeuratObject
-	url = https://github.com/mojaveazure/seurat-object
-	branch = seurat5
-	registered = false
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
