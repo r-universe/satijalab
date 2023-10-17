@@ -9,15 +9,12 @@
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/satijalab/seurat
-	branch = seurat5
-[submodule "Seurat4"]
-	path = Seurat4
-	url = https://github.com/satijalab/seurat
 	branch = seurat4
 [submodule "SeuratObject"]
 	path = SeuratObject
 	url = https://github.com/mojaveazure/seurat-object
 	branch = seurat5
+	registered = false
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
