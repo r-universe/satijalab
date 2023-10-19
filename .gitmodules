@@ -6,6 +6,10 @@
 	path = Seurat
 	url = https://github.com/satijalab/seurat
 	branch = seurat4
+[submodule "SeuratObject"]
+	path = SeuratObject
+	url = https://github.com/mojaveazure/seurat-object
+	branch = seurat4
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
