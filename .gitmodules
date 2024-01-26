@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/satijalab/universe
+	url = https://github.com/satijalab/satijalab.r-universe.dev
 	branch = HEAD
 [submodule "Seurat"]
 	path = Seurat
