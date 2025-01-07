@@ -10,6 +10,9 @@
 	path = SeuratObject
 	url = https://github.com/satijalab/seurat-object
 	branch = v4.1.4
+[submodule "enrichR"]
+	path = enrichR
+	url = https://github.com/wjawaid/enrichR
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
